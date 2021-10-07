@@ -168,6 +168,10 @@ public class BaseClass {
 
 	}
     
+    private void sample() {
+		System.out.println("hjsffkcjbd");
+
+	}
     
     
     
