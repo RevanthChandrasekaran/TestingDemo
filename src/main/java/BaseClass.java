@@ -163,6 +163,10 @@ public class BaseClass {
          
 	}
     
+    private void gagag() {
+		System.out.println("dsdjknsj");
+
+	}
     
     
     
